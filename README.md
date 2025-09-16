@@ -91,7 +91,7 @@
 </a>
 
 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-*Issued:* Jun 2025 • *Credential ID:* `661B0F82305F677C` • **Verify:** _[add link]_
+*Issued:* Jun 2025 • *Credential ID:* `661B0F82305F677C` • **Verify:** _[Microsoft Learn](https://learn.microsoft.com/en-us/users/borisnavarro-7729/credentials/661b0f82305f677c?ref=https%3A%2F%2Fwww.linkedin.com%2F)_
 
 ---
 ### ✨ About
