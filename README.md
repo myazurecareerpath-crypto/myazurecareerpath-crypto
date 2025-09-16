@@ -62,7 +62,7 @@
 
 **What it is (1-liner):** Closed-loop irrigation + feeder control driven by sensors, with server-side alerts and a simple dashboard.
 
-**Stack:** MCU: _[Arduino/ESP32]_ • Sensors: _[Ultrasonic level]_, _[Temp/Humidity]_ • Actuators: _[Pump]_, _[Feeder]_ • Comms: _[ESP-01 Wi-Fi]_ • Cloud/Dashboard: _[ThingSpeak/Grafana]_ • Alerts: _[Email/SMS]_
+**Stack:** MCU: _[ESP32]_ • Sensors: _[Water Level Sensor]_, _[pH/EC sensors]_, [ESP32cam] • Actuators: _[Pump]_, _[Dosing pumps]_ • Comms: _[ESP-01 Wi-Fi]_ • Cloud/Dashboard: _[ThingSpeak]_ • Alerts: _[Email/SMS]_
 
 **Highlights:**
 - Dry-run & overflow **safety interlocks** (protect pump/reservoir)
@@ -73,11 +73,6 @@
 
 **Links:** Repo → _[link]_ • Demo → _[link]_ • Write-up → _[link]_
 
----
-
-> _Insert project here_
-
-> _Insert project here_
 
 
 ---
