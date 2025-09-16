@@ -73,10 +73,27 @@
 
 **Links:** Repo → _[link]_ • Demo → _[link]_ • Write-up → _[link]_
 
+---
+## 🏅 Certifications
 
+<!-- Azure Data Fundamentals -->
+<a href="#" title="Add your public verification link">
+  <img alt="DP-900" src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-4F46E5?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</a>
+
+**Microsoft Certified: Azure Data Fundamentals (DP-900)**  
+*Issued:* Jun 2025 • *Credential ID:* `70018F1A9DB7F775` • **Verify:** _[add link]_
+
+
+<!-- Azure Fundamentals -->
+<a href="#" title="Add your public verification link">
+  <img alt="AZ-900" src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-10B981?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</a>
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)**  
+*Issued:* Jun 2025 • *Credential ID:* `661B0F82305F677C` • **Verify:** _[add link]_
 
 ---
-
 ### ✨ About
 I’m an IoT major focused on building secure, data-driven systems—from sensor-level firmware to dashboards and cloud integrations.
 
