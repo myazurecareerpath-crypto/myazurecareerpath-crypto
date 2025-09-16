@@ -82,7 +82,7 @@
 </a>
 
 **Microsoft Certified: Azure Data Fundamentals (DP-900)**  
-*Issued:* Jun 2025 • *Credential ID:* `70018F1A9DB7F775` • **Verify:** _[add link]_
+*Issued:* Jun 2025 • *Credential ID:* `70018F1A9DB7F775` • **Verify:** _[[Microsoft Learn] (https://learn.microsoft.com/en-us/users/borisnavarro-7729/credentials/70018f1a9db7f775?ref=https%3A%2F%2Fwww.linkedin.com%2F)_
 
 
 <!-- Azure Fundamentals -->
