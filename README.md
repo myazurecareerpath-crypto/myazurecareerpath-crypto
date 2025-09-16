@@ -1,56 +1,77 @@
-<h1>Hi, I'm Boris Navarro! <br/><a href="https://github.com/joshmadakor1">An IoT Major</a>, <a href="www.linkedin.com/in/borisn4v4rro/">
+<!-- PROFILE HEADER -->
+<div align="center">
 
-<h2>👨‍💻 IoT Projects:</h2>
+# Boris Navarro  
+### IoT Major • Cybersecurity • Data Analytics • Embedded Systems
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<!-- Accent badges for a subtle color palette -->
+<img alt="accent" src="https://img.shields.io/badge/focus-IoT%20%7C%20Security%20%7C%20Data-blueviolet?style=for-the-badge">
+<img alt="location" src="https://img.shields.io/badge/based-in%20Florida-informational?style=for-the-badge">
 
-<h2>📺 Popular YouTube Videos</h2>
+<br/>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<!-- SOCIALS -->
+<a href="https://www.linkedin.com/in/borisn4v4rro/" target="_blank">
+  <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-Boris%20Navarro-0A66C2?logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/iot_learning/" target="_blank">
+  <img alt="Instagram" height="28" src="https://img.shields.io/badge/Instagram-@iot_learning-E4405F?logo=instagram&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@IoTLearning-fd7jm" target="_blank">
+  <img alt="YouTube" height="28" src="https://img.shields.io/badge/YouTube-IoTLearning-FF0000?logo=youtube&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:borisnavarro1975@yahoo.com">
+  <img alt="Email" height="28" src="https://img.shields.io/badge/Email-borisnavarro1975%40yahoo.com-0078D4?logo=microsoft-outlook&logoColor=white">
+</a>
 
-<h2> 🤳 Connect with me:</h2>
+</div>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
+## 🔒 Cybersecurity
+> _Insert project here_  
+> _Insert project here_  
+> _Insert project here_
 
-[youtube]: https://www.youtube.com/@IoTLearning-fd7jm
-[instagram]: https://www.instagram.com/iot_learning/
-[linkedin]: https://www.linkedin.com/in/borisn4v4rro
-
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Example template to copy when you’re ready:
+### Project Title
+**Stack:** Tool / Lang / Cloud  
+**What it does:** One-liner value prop  
+**Highlights:** • bullet • bullet • bullet  
+**Repo:** [link] • **Demo:** [link] • **Write-up:** [link]
 -->
+
+---
+
+## 📊 Data Analytics
+> _Insert project here_  
+> _Insert project here_  
+> _Insert project here_
+
+---
+
+## 🔧 Embedded Systems
+> _Insert project here_  
+> _Insert project here_  
+> _Insert project here_
+
+---
+
+### ✨ About
+I’m an IoT major focused on building secure, data-driven systems—from sensor-level firmware to dashboards and cloud integrations.
+
+<!-- OPTIONAL QUICK LINKS (uncomment when you populate)
+**Featured repos:**  
+- [Cybersecurity – Repo Name](#)  
+- [Data Analytics – Repo Name](#)  
+- [Embedded – Repo Name](#)
+-->
+
+<!-- FOOTER BADGES -->
+<p align="center">
+  <img alt="made" src="https://img.shields.io/badge/Made%20with-Markdown-000000?logo=markdown&logoColor=white">
+  <img alt="style" src="https://img.shields.io/badge/Style-clean%20%26%20minimal-4b5563">
+</p>
