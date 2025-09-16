@@ -4,9 +4,9 @@
 # Boris Navarro  
 ### IoT Major • Cybersecurity • Data Analytics • Embedded Systems
 
-<!-- Accent badges for a subtle color palette -->
-<img alt="accent" src="https://img.shields.io/badge/focus-IoT%20%7C%20Security%20%7C%20Data-blueviolet?style=for-the-badge">
-<img alt="location" src="https://img.shields.io/badge/based-in%20Florida-informational?style=for-the-badge">
+<!-- Indigo/Emerald accent badges -->
+<img alt="focus" src="https://img.shields.io/badge/focus-IoT%20%7C%20Security%20%7C%20Data-%234F46E5?style=for-the-badge"> 
+<img alt="status" src="https://img.shields.io/badge/building-projects-%2310B981?style=for-the-badge">
 
 <br/>
 
@@ -24,7 +24,7 @@
 </a>
 &nbsp;
 <a href="mailto:borisnavarro1975@yahoo.com">
-  <img alt="Email" height="28" src="https://img.shields.io/badge/Email-borisnavarro1975%40yahoo.com-0078D4?logo=microsoft-outlook&logoColor=white">
+  <img alt="Email" height="28" src="https://img.shields.io/badge/Email-borisnavarro1975%40yahoo.com-%234F46E5?logo=microsoft-outlook&logoColor=white">
 </a>
 
 </div>
@@ -36,7 +36,7 @@
 > _Insert project here_  
 > _Insert project here_
 
-<!-- Example template to copy when you’re ready:
+<!-- Template (copy when ready)
 ### Project Title
 **Stack:** Tool / Lang / Cloud  
 **What it does:** One-liner value prop  
@@ -63,15 +63,7 @@
 ### ✨ About
 I’m an IoT major focused on building secure, data-driven systems—from sensor-level firmware to dashboards and cloud integrations.
 
-<!-- OPTIONAL QUICK LINKS (uncomment when you populate)
-**Featured repos:**  
-- [Cybersecurity – Repo Name](#)  
-- [Data Analytics – Repo Name](#)  
-- [Embedded – Repo Name](#)
--->
-
-<!-- FOOTER BADGES -->
 <p align="center">
-  <img alt="made" src="https://img.shields.io/badge/Made%20with-Markdown-000000?logo=markdown&logoColor=white">
-  <img alt="style" src="https://img.shields.io/badge/Style-clean%20%26%20minimal-4b5563">
+  <img alt="palette" src="https://img.shields.io/badge/Accent-INDIGO%204F46E5-%234F46E5?style=flat-square">
+  <img alt="palette" src="https://img.shields.io/badge/Accent-EMERALD%2010B981-%2310B981?style=flat-square">
 </p>
