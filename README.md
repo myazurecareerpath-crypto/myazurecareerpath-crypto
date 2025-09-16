@@ -54,9 +54,31 @@
 ---
 
 ## 🔧 Embedded Systems
-> _Insert project here_  
-> _Insert project here_  
+
+### Automated Hydroponic System
+<img alt="status" src="https://img.shields.io/badge/status-In%20Progress-4F46E5?style=flat-square">
+<img alt="type"   src="https://img.shields.io/badge/type-IoT%20%7C%20Control%20Systems-10B981?style=flat-square">
+<img alt="focus"  src="https://img.shields.io/badge/focus-Automation%20%7C%20Monitoring-4F46E5?style=flat-square">
+
+**What it is (1-liner):** Closed-loop irrigation + feeder control driven by sensors, with server-side alerts and a simple dashboard.
+
+**Stack:** MCU: _[Arduino/ESP32]_ • Sensors: _[Ultrasonic level]_, _[Temp/Humidity]_ • Actuators: _[Pump]_, _[Feeder]_ • Comms: _[ESP-01 Wi-Fi]_ • Cloud/Dashboard: _[ThingSpeak/Grafana]_ • Alerts: _[Email/SMS]_
+
+**Highlights:**
+- Dry-run & overflow **safety interlocks** (protect pump/reservoir)
+- **Automatic** pump/feeder schedules with manual override
+- **Threshold-based alerts** from the server (low water / low feed)
+- **Modular** add-ons (EC/pH sensing, light control) for later phases
+- Lightweight **data logging** for trend analysis
+
+**Links:** Repo → _[link]_ • Demo → _[link]_ • Write-up → _[link]_
+
+---
+
 > _Insert project here_
+
+> _Insert project here_
+
 
 ---
 
