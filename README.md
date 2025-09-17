@@ -93,6 +93,24 @@
 **Links:** Repo → _[link]_ • Demo → _[link]_ • Write-up → _[link]_
 
 ---
+## 🤖 Animatronics (Hobby)
+
+<img alt="hobby" src="https://img.shields.io/badge/hobby-Animatronics-10B981?style=flat-square">
+<img alt="palette" src="https://img.shields.io/badge/palette-indigo%2Femerald-4F46E5?style=flat-square">
+<img alt="skills" src="https://img.shields.io/badge/skills-Servos%20%E2%80%A2%20Linkages%20%E2%80%A2%20Audio-10B981?style=flat-square">
+
+> _Insert project here_  
+> _Insert project here_  
+> _Insert project here_
+
+<!-- Optional template (copy/paste and edit when ready)
+### Project Title
+**Focus:** Eyes / jaw / eyelids / head pan-tilt / lipsync  
+**Stack:** MCU: Arduino/ESP32 • Controller: PCA9685 • Servos: SG90/MG996R • Audio: DFPlayer Mini  
+**Materials:** 3D-printed PLA / laser-cut acrylic • **Power:** 5V buck with inline fuse  
+**Highlights:** • Smooth easing curves • Blinks & saccades • Safety end-stops • Modular linkages  
+**Repo:** [link] • **Demo:** [link] • **Write-up:** [link]
+-->
 
 ### ✨ About
 I’m an IoT major focused on building secure, data-driven systems—from sensor-level firmware to dashboards and cloud integrations.
