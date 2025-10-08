@@ -51,9 +51,9 @@
 
 ---
 ## 🔒 Cybersecurity
-> _Insert project here_  
-> _Insert project here_  
-> _Insert project here_
+> _Coming up soon!_  
+> _Coming up soon!_  
+> _Coming up soon!_
 
 <!-- Template (copy/paste later)
 ### Project Title
@@ -66,9 +66,9 @@
 ---
 
 ## 📊 Data Analytics
-> _Insert project here_  
-> _Insert project here_  
-> _Insert project here_
+> _Coming up soon!_  
+> _Coming up soon!_  
+> _Coming up soon!_
 
 ---
 
@@ -99,9 +99,9 @@
 <img alt="palette" src="https://img.shields.io/badge/palette-indigo%2Femerald-4F46E5?style=flat-square">
 <img alt="skills" src="https://img.shields.io/badge/skills-Servos%20%E2%80%A2%20Linkages%20%E2%80%A2%20Audio-10B981?style=flat-square">
 
-> _Insert project here_  
-> _Insert project here_  
-> _Insert project here_
+> _Coming up soon!_  
+> _Coming up soon!_  
+> _Coming up soon!_
 
 <!-- Optional template (copy/paste and edit when ready)
 ### Project Title
