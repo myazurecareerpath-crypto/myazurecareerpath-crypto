@@ -81,7 +81,7 @@
 
 **What it is (1-liner):** Closed-loop irrigation + feeder control driven by sensors, with server-side alerts and a simple dashboard.
 
-**Stack:** MCU: _[ESP32]_ • Sensors: _[Water Level Sensor]_, _[pH/EC sensors]_, [Temparature Sensor]_, [ESP32cam] • Actuators: _[Pump]_, _[Dosing pumps]_ • Comms: _[ESP-01 Wi-Fi]_ • Cloud/Dashboard: _[ThingSpeak]_ • Alerts: _[Email/SMS]_ • Mechanical: _[Water Level Valve]_
+**Stack:** MCU: _[ESP32]_ • Sensors: _[Water Level Sensor]_, _[pH/EC sensors]_, [Temparature Sensor]_, [ESP32cam] • Actuators: _[Pump]_, _[Dosing pumps]_ • Comms: _[ESP-01 Wi-Fi]_ • Cloud/Dashboard: _[Blynk]_ • Alerts: _[Email/SMS]_ • Mechanical: _[Water Level Valve]_
 
 **Highlights:**
 - Dry-run & overflow **safety interlocks** (protect pump/plant food container)
