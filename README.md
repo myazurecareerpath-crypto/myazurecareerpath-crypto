@@ -58,7 +58,7 @@
 <!-- Template (copy/paste later)
 ### Project Title
 **Stack:** Tool / Lang / Cloud  
-**What it does:** One-liner value prop  
+**What it does:**    
 **Highlights:** • bullet • bullet • bullet  
 **Repo:** [link] • **Demo:** [link] • **Write-up:** [link]
 -->
@@ -79,7 +79,7 @@
 <img alt="type"   src="https://img.shields.io/badge/type-IoT%20%7C%20Control%20Systems-10B981?style=flat-square">
 <img alt="focus"  src="https://img.shields.io/badge/focus-Automation%20%7C%20Monitoring-4F46E5?style=flat-square">
 
-**What it is (1-liner):** Closed-loop irrigation + feeder control driven by sensors, with server-side alerts and a simple dashboard.
+**What it is:** Closed-loop irrigation + feeder control driven by sensors, with server-side alerts and a simple dashboard.
 
 **Stack:** MCU: _[ESP32]_ • Sensors: _[Water Level Sensor]_, _[pH/EC sensors]_, [Temparature Sensor]_, [ESP32cam] • Actuators: _[Pump]_, _[Dosing pumps]_ • Comms: _[ESP-01 Wi-Fi]_ • Cloud/Dashboard: _[Blynk]_ • Alerts: _[Email/SMS]_ • Mechanical: _[Water Level Valve]_
 
